@@ -1,4 +1,4 @@
-EXEC = encode decode
+EXEC = sorting
 SOURCES = $(wildcard *.c)
 OBJECTS = $(SOURCES:%.c=%.o)
 
